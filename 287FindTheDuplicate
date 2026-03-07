@@ -1,0 +1,23 @@
+287. Find the Duplicate Number
+Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.
+There is only one repeated number in nums, return this repeated number.
+You must solve the problem without modifying the array nums and using only constant extra space.
+class Solution {
+    public int findDuplicate(int[] nums) {
+    int n=nums.length;
+    int res=0;
+    int hash[]=new int [n];
+    for(int i=0;i<n;i++)
+    {
+        hash[nums[i]]++;
+    }
+    for(int i=0;i<n;i++)
+    {
+        if(hash[nums[i]]>=2)
+        {
+res=nums[i];
+        }
+    }
+    return res;
+    }
+}
