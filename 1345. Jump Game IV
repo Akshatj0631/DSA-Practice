@@ -1,0 +1,43 @@
+class Solution {
+    public int minJumps(int[] arr) {
+        int n=arr.length;
+        Map<Integer,List<Integer>> hash=new HashMap<>();
+        for(int i=0;i<n;i++)
+        {
+            hash.computeIfAbsent(arr[i],k->new ArrayList<>()).add(i);
+        }
+        boolean[] visited=new boolean[n];
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(0);
+        visited[0]=true;
+        int steps=0;
+        while(!q.isEmpty()){
+            int size=q.size();
+        while(size-- > 0)
+        {
+            int curr=q.poll();
+            if(curr==n-1) return steps;
+            int left=curr-1;
+            int right=curr+1;
+            if(left>=0 &&!visited[left]) {
+                visited[left]=true;
+                q.offer(left);
+            }
+            if(right<n &&!visited[right]) {
+                visited[right]=true;
+                q.offer(right);
+            }
+            for(int idx:hash.get(arr[curr]))
+            {
+                if(!visited[idx]){
+                    visited[idx]=true;
+                    q.offer(idx);
+                }
+            }
+            hash.get(arr[curr]).clear();
+        }
+        steps++;
+            }
+            return -1;
+}
+}
