@@ -1,0 +1,42 @@
+class Solution {
+    int len(int n)
+    {
+        int  c=0;
+        while(n!=0)
+        {
+            c++;
+            n/=10;
+        }
+        return c;
+    }
+    public int longestCommonPrefix(int[] arr1, int[] arr2) {
+   Set<Integer> prefix=new HashSet<>();
+    int n=arr1.length;
+    int m=arr2.length;
+    int maxcom=0,comm=0;
+    for(int i=0;i<n;i++)
+    {
+        int l=len(arr1[i])-1;
+        while(l>=0)
+        {
+            prefix.add((int)(arr1[i]/Math.pow(10,l)));
+            l--;
+        }
+    }
+   for(int num : arr2) {
+
+            while(num > 0) {
+
+                if(prefix.contains(num)) {
+
+                    maxcom = Math.max(maxcom, len(num));
+
+                }
+
+                num /= 10;
+
+            }
+   }
+return maxcom;
+    }
+}
