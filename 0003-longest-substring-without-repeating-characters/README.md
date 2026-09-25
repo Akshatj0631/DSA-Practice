@@ -5,6 +5,7 @@
 Given a string s, find the length of the longest substring without duplicate characters.
 
  
+
 Example 1:
 
 Input: s = "abcabcbb"
@@ -28,11 +29,11 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 
  
+
 Constraints:
 
-
-	0 <= s.length <= 105
-	s consists of English letters, digits, symbols and spaces.
+0 <= s.length <= 105
+s consists of English letters, digits, symbols and spaces.
 
 ---
 
