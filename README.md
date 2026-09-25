@@ -33,12 +33,14 @@ Solve problems consistently and improve problem-solving skills.
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Akshatj0631/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshatj0631/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +80,12 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
