@@ -115,4 +115,17 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
