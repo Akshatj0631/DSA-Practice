@@ -78,6 +78,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0031-next-permutation](https://github.com/Akshatj0631/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,11 +110,13 @@ Solve problems consistently and improve problem-solving skills.
 | [0002-add-two-numbers](https://github.com/Akshatj0631/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshatj0631/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +129,7 @@ Solve problems consistently and improve problem-solving skills.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
