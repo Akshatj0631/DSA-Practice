@@ -103,6 +103,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshatj0631/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
