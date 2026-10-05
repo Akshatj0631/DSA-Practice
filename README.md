@@ -29,6 +29,7 @@ Solve problems consistently and improve problem-solving skills.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/Akshatj0631/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Akshatj0631/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
@@ -40,6 +41,7 @@ Solve problems consistently and improve problem-solving skills.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
