@@ -79,6 +79,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Akshatj0631/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -113,6 +114,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshatj0631/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
