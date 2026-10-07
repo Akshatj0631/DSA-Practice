@@ -45,6 +45,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
@@ -79,6 +80,7 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Akshatj0631/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
@@ -112,6 +114,7 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshatj0631/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -151,6 +154,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
