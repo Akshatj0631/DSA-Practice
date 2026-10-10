@@ -137,6 +137,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0678-valid-parenthesis-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,11 +146,13 @@ Solve problems consistently and improve problem-solving skills.
 | [0678-valid-parenthesis-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +168,5 @@ Solve problems consistently and improve problem-solving skills.
 | [0678-valid-parenthesis-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
