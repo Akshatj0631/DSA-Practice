@@ -38,6 +38,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshatj0631/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -172,4 +173,8 @@ Solve problems consistently and improve problem-solving skills.
 | [0856-score-of-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
