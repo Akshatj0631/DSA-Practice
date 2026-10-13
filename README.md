@@ -31,6 +31,7 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Akshatj0631/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Akshatj0631/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
@@ -85,6 +86,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Akshatj0631/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Akshatj0631/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
