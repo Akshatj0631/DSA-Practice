@@ -40,6 +40,7 @@ Solve problems consistently and improve problem-solving skills.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshatj0631/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akshatj0631/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0015-3sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akshatj0631/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Akshatj0631/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
