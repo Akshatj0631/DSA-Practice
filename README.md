@@ -42,6 +42,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0485-max-consecutive-ones](https://github.com/Akshatj0631/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshatj0631/DSA-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshatj0631/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akshatj0631/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
@@ -56,6 +57,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshatj0631/DSA-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +192,12 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshatj0631/DSA-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshatj0631/DSA-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
