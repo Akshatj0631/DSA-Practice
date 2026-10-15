@@ -40,6 +40,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0322-coin-change](https://github.com/Akshatj0631/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Akshatj0631/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -86,6 +87,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0015-3sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akshatj0631/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +172,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Akshatj0631/DSA-Practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -214,4 +218,8 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Akshatj0631/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
