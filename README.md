@@ -36,6 +36,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0042-trapping-rain-water](https://github.com/Akshatj0631/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Akshatj0631/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0090-subsets-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
@@ -222,4 +223,12 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0090-subsets-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
