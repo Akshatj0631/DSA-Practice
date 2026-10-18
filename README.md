@@ -33,6 +33,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0015-3sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Akshatj0631/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Akshatj0631/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Akshatj0631/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
@@ -228,6 +229,7 @@ Solve problems consistently and improve problem-solving skills.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Akshatj0631/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
