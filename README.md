@@ -44,6 +44,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0322-coin-change](https://github.com/Akshatj0631/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Akshatj0631/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshatj0631/DSA-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -65,6 +66,7 @@ Solve problems consistently and improve problem-solving skills.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
