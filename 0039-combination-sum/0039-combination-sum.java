@@ -5,6 +5,11 @@ class Solution {
         if(remain<0) return;
         if(remain==0){
             ls.add(new ArrayList<>(temp));
+/*
+Remember this for backtracking!
+* ls.add(temp) → Stores the same list reference.
+* ls.add(new ArrayList<>(temp)) → Stores a separate copy of the list.
+*/
             return;
         }
         for(int i=ind;i<arr.length;i++)
