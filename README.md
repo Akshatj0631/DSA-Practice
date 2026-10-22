@@ -41,6 +41,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0053-maximum-subarray](https://github.com/Akshatj0631/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0090-subsets-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0322-coin-change](https://github.com/Akshatj0631/DSA-Practice/tree/main/0322-coin-change/) | Medium |
@@ -93,6 +94,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0015-3sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
@@ -115,6 +117,7 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshatj0631/DSA-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Akshatj0631/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,4 +246,12 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
