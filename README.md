@@ -38,6 +38,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0039-combination-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Akshatj0631/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Akshatj0631/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Akshatj0631/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0090-subsets-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
@@ -249,6 +250,7 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Akshatj0631/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Akshatj0631/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
