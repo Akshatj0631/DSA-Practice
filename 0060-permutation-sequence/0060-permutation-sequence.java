@@ -1,4 +1,5 @@
 class Solution {
+    //simple math used
     public String getPermutation(int n, int k) {
         List<Integer> number=new ArrayList<>();
         int fact=1;
