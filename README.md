@@ -90,6 +90,7 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshatj0631/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Akshatj0631/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshatj0631/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Akshatj0631/DSA-Practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -163,6 +164,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Akshatj0631/DSA-Practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0060-permutation-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0060-permutation-sequence/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
