@@ -93,6 +93,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Akshatj0631/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Akshatj0631/DSA-Practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshatj0631/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Akshatj0631/DSA-Practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Sorting
@@ -181,6 +182,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0856-score-of-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Akshatj0631/DSA-Practice/tree/main/2409-count-days-spent-together/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
