@@ -56,6 +56,7 @@ Solve problems consistently and improve problem-solving skills.
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshatj0631/DSA-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshatj0631/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akshatj0631/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +239,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Akshatj0631/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,4 +283,8 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Akshatj0631/DSA-Practice/tree/main/0051-n-queens/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
