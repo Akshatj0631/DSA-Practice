@@ -35,6 +35,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Akshatj0631/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/Akshatj0631/DSA-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Akshatj0631/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
@@ -63,6 +64,7 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/Akshatj0631/DSA-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -140,6 +142,7 @@ Solve problems consistently and improve problem-solving skills.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Akshatj0631/DSA-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Counting
@@ -255,6 +258,7 @@ Solve problems consistently and improve problem-solving skills.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Akshatj0631/DSA-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Akshatj0631/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Akshatj0631/DSA-Practice/tree/main/0046-permutations/) | Medium |
@@ -282,9 +286,14 @@ Solve problems consistently and improve problem-solving skills.
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Akshatj0631/DSA-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Akshatj0631/DSA-Practice/tree/main/0051-n-queens/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Akshatj0631/DSA-Practice/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
