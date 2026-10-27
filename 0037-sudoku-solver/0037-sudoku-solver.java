@@ -44,3 +44,16 @@ class Solution {
         solve(board);
     }
 }
+/*
+int
+5
+'0'
+char
+Character '0', Unicode value 48
+d + '0'
+int
+5 + 48 = 53
+(char)(d + '0')
+char
+Character '5', Unicode value 53
+*/
