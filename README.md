@@ -120,6 +120,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0061-rotate-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Akshatj0631/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshatj0631/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Akshatj0631/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
@@ -184,6 +185,7 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Akshatj0631/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Akshatj0631/DSA-Practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/0856-score-of-parentheses/) | Medium |
