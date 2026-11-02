@@ -52,6 +52,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0347-top-k-frequent-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Akshatj0631/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -99,6 +100,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0060-permutation-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Akshatj0631/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Akshatj0631/DSA-Practice/tree/main/2409-count-days-spent-together/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akshatj0631/DSA-Practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Akshatj0631/DSA-Practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -111,6 +113,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Akshatj0631/DSA-Practice/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akshatj0631/DSA-Practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
