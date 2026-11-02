@@ -8,3 +8,4 @@ class Solution {
         return sum - nums.length * min;
     }
 }
+//If you can increment all elements except one, think about decrementing one element.
