@@ -55,6 +55,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Akshatj0631/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshatj0631/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshatj0631/DSA-Practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshatj0631/DSA-Practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -151,12 +152,14 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Akshatj0631/DSA-Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Akshatj0631/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Akshatj0631/DSA-Practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Akshatj0631/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +188,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshatj0631/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -252,6 +256,7 @@ Solve problems consistently and improve problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Akshatj0631/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -301,6 +306,7 @@ Solve problems consistently and improve problem-solving skills.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Akshatj0631/DSA-Practice/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akshatj0631/DSA-Practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Dancing Links
 | Problem Name | Difficulty |
