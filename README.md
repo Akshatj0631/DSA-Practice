@@ -203,6 +203,7 @@ Solve problems consistently and improve problem-solving skills.
 | [0856-score-of-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Akshatj0631/DSA-Practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Akshatj0631/DSA-Practice/tree/main/2409-count-days-spent-together/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -332,4 +333,8 @@ Solve problems consistently and improve problem-solving skills.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/Akshatj0631/DSA-Practice/tree/main/0686-repeated-string-match/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akshatj0631/DSA-Practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
